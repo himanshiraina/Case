@@ -1,0 +1,14 @@
+D:\.netprograms\CARS\CaseStudy\bin\Debug\net6.0\CaseStudy.exe
+D:\.netprograms\CARS\CaseStudy\bin\Debug\net6.0\CaseStudy.deps.json
+D:\.netprograms\CARS\CaseStudy\bin\Debug\net6.0\CaseStudy.runtimeconfig.json
+D:\.netprograms\CARS\CaseStudy\bin\Debug\net6.0\CaseStudy.dll
+D:\.netprograms\CARS\CaseStudy\bin\Debug\net6.0\CaseStudy.pdb
+D:\.netprograms\CARS\CaseStudy\obj\Debug\net6.0\CaseStudy.GeneratedMSBuildEditorConfig.editorconfig
+D:\.netprograms\CARS\CaseStudy\obj\Debug\net6.0\CaseStudy.AssemblyInfoInputs.cache
+D:\.netprograms\CARS\CaseStudy\obj\Debug\net6.0\CaseStudy.AssemblyInfo.cs
+D:\.netprograms\CARS\CaseStudy\obj\Debug\net6.0\CaseStudy.csproj.CoreCompileInputs.cache
+D:\.netprograms\CARS\CaseStudy\obj\Debug\net6.0\CaseStudy.dll
+D:\.netprograms\CARS\CaseStudy\obj\Debug\net6.0\refint\CaseStudy.dll
+D:\.netprograms\CARS\CaseStudy\obj\Debug\net6.0\CaseStudy.pdb
+D:\.netprograms\CARS\CaseStudy\obj\Debug\net6.0\CaseStudy.genruntimeconfig.cache
+D:\.netprograms\CARS\CaseStudy\obj\Debug\net6.0\ref\CaseStudy.dll
